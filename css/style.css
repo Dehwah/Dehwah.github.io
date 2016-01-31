@@ -167,7 +167,7 @@ strong { font-weight: normal; }
 /* header */
 .header { background-color: #313132; height: 119px; padding: 23px 0; position: relative; z-index: 10; }
 
-.logo { float: left; background: url(images/logo6.png) no-repeat 0 0; width: 236px; height: 73px; font-size: 0; line-height: 0; text-indent: -4000px; }
+.logo { float: left; background: url(logo6.png) no-repeat 0 0; width: 236px; height: 73px; font-size: 0; line-height: 0; text-indent: -4000px; }
 
 /* nav */
 .nav { float: right; padding-top: 21px; }
